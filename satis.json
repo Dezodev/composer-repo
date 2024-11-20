@@ -1,0 +1,7 @@
+{
+    "name": "dezodev/composer-repo",
+    "homepage": "https://dezodev.github.io/composer-repo",
+    "repositories": [],
+    "output-dir": "docs/",
+    "require-all": true
+}
